@@ -31,5 +31,5 @@ Feel free to contribute to this repository! If you have any great resources, pro
 
 If you have any queries or suggestions, feel free to reach out:
 
-- Email: [your-email@example.com]
-- GitHub: [your-github-username](https://github.com/your-github-username)
+- Email: [mdmizbah2001@gmail.com]
+- GitHub: [https://github.com/Mizbah02]
